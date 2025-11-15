@@ -2,60 +2,6 @@
   "project": "izvori",
   "pages": [
     {
-      "name": "Izvori",
-      "pages": [
-        {
-          "name": "Izvori",
-          "path": "/pages/KONCEPT/Izvori_K"
-        },
-        {
-          "name": "Crkveni",
-          "path": "/pages/KONCEPT/Izvori_Crkveni"
-        },
-        {
-          "name": "Državni",
-          "path": "/pages/KONCEPT/Izvori_Drzavni"
-        },
-        {
-          "name": "Gradski",
-          "path": "/pages/KONCEPT/Izvori_Gradski"
-        },
-        {
-          "name": "Radovi",
-          "path": "/pages/KONCEPT/Izvori_Radovi"
-        },
-        {
-          "name": "Groblja",
-          "path": "/pages/KONCEPT/Izvori_Groblja"
-        },
-        {
-          "name": "Pismo",
-          "path": "/pages/KONCEPT/Pismo_K"
-        }
-      ]
-    },
-    {
-      "name": "Događaji - Zapisi",
-      "pages": [
-        {
-          "name": "Matice",
-          "path": "/pages/KONCEPT/Izvori_zapisi_K"
-        },
-        {
-          "name": "Kućedomaćini",
-          "path": "/pages/KONCEPT/Kucedomacin_K"
-        },
-        {
-          "name": "Katastar",
-          "path": "/pages/KONCEPT/Katastar_K"
-        },
-        {
-          "name": "Stanovnici",
-          "path": "/pages/KONCEPT/Popis_stanovnika_K"
-        }
-      ]
-    },
-    {
       "name": "Bosna",
       "pages": [
         {
@@ -242,17 +188,6 @@
     }
   ],
   "entryPoints": [
-    "/pages/KONCEPT/Izvori_K",
-    "/pages/KONCEPT/Izvori_Crkveni",
-    "/pages/KONCEPT/Izvori_Drzavni",
-    "/pages/KONCEPT/Izvori_Gradski",
-    "/pages/KONCEPT/Izvori_Radovi",
-    "/pages/KONCEPT/Izvori_Groblja",
-    "/pages/KONCEPT/Pismo_K",
-    "/pages/KONCEPT/Izvori_zapisi_K",
-    "/pages/KONCEPT/Kucedomacin_K",
-    "/pages/KONCEPT/Katastar_K",
-    "/pages/KONCEPT/Popis_stanovnika_K",
     "/pages/ENTITET/zupa/1623.%20Komu%C5%A1ina",
     "/pages/ENTITET/zupa/1623.%20Radunjevac%20%2F%20Vasiljevo",
     "/pages/ENTITET/zupa/1742.%20Plehan",
