@@ -85,31 +85,11 @@
           "drzava": "Bosna"
         },
         {
-          "name": "1863. Doboj",
-          "label": "Doboj (do 1863)",
-          "value": "Doboj",
-          "path": "/pages/ENTITET/zupa/1863.%20Doboj",
-          "pathEncoded2": "/pages/ENTITET/zupa/1863.%2520Doboj",
-          "minGodina": 1863,
-          "maxGodina": 1863,
-          "drzava": "Bosna"
-        },
-        {
           "name": "1863. Kulaši",
           "label": "Kulaši (do 1863)",
           "value": "Kulaši",
           "path": "/pages/ENTITET/zupa/1863.%20Kula%C5%A1i",
           "pathEncoded2": "/pages/ENTITET/zupa/1863.%2520Kula%25C5%25A1i",
-          "minGodina": 1863,
-          "maxGodina": 1863,
-          "drzava": "Bosna"
-        },
-        {
-          "name": "1863. Žabljak",
-          "label": "Žabljak (do 1863)",
-          "value": "Žabljak",
-          "path": "/pages/ENTITET/zupa/1863.%20%C5%BDabljak",
-          "pathEncoded2": "/pages/ENTITET/zupa/1863.%2520%25C5%25BDabljak",
           "minGodina": 1863,
           "maxGodina": 1863,
           "drzava": "Bosna"
@@ -146,9 +126,7 @@
     "/pages/ENTITET/zupa/1855.%20Gornja%20Dubica",
     "/pages/ENTITET/zupa/1855.%20Poto%C4%8Dani",
     "/pages/ENTITET/zupa/1859.%20Kora%C4%87e",
-    "/pages/ENTITET/zupa/1863.%20Doboj",
     "/pages/ENTITET/zupa/1863.%20Kula%C5%A1i",
-    "/pages/ENTITET/zupa/1863.%20%C5%BDabljak",
     "/pages/ENTITET/zupa/1879.%20Pe%C4%87nik",
     "/pages/ENTITET/zupa/1970.%20Dragalovci",
     "/pages/ENTITET/mjesto/Popovi%C4%87i",
